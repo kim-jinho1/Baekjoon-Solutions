@@ -1,4 +1,5 @@
 using System;
+using System.Numerics;
 
 namespace BACKJOON
 {
@@ -6,7 +7,7 @@ namespace BACKJOON
     {
         static void Main(string[] args)
         {
-            int[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), int.Parse);
+            BigInteger[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), BigInteger.Parse);
 
             Console.WriteLine(arr[0] + arr[1]);
         }
