@@ -2,10 +2,10 @@
 #include <queue>
 using namespace std;
 int main() {
-    long a, b, c = 0;
+    unsigned long long a, b, c = 0;
     cin >> a >> b;
 
-    queue<long> q;
+    queue<unsigned long long> q;
     for (int i = 1; i <= a; i++)
         q.push(i);
 
