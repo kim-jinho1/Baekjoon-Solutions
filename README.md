@@ -1,2 +1,16 @@
-# Baekjoon-Solutions
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+## 📘 Baekjoon Online Judge 문제 풀이
+이 저장소는 백준 온라인 저지에서 푼 알고리즘 문제 풀이를 정리한 공간입니다.
+사용 언어: C#, C++
+
+## 📁 폴더 구조
+각 파일은 문제 번호와 제목으로 구성되어 있습니다.
+
+## ✍️ 문제 출처
+문제 출처: https://www.acmicpc.net/
+
+## 📌 목적
+- 알고리즘 학습 및 기록
+
+- 프로그래밍 실력 향상
+
+- 취업 대비
