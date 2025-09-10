@@ -1,4 +1,4 @@
 #include <iostream>
 int main() {
-    std::cout << "nkugwan\n";
+    std::cout << "nkugwan";
 }
